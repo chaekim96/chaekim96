@@ -17,7 +17,7 @@ I build productivity tools that I'd actually use.
 
 Custom extensions I built for my own Claude Code setup.
 
-- **SmartModel** · A router hook that scores how hard a prompt is and recommends Haiku, Sonnet, Opus or Fable. Runs in ask, auto or block mode.
+- **[SmartModel](https://github.com/chaekim96/smartmodel)** · A router hook that scores how hard a prompt is and recommends Haiku, Sonnet, Opus or Fable. Runs in ask, auto or block mode.
 - **Token-Fuel** · A context fuel gauge. A floating pill on the Claude window plus a CLI status line, so I see how much context is left.
 - **Code Improver** · A custom subagent that scans files and suggests readability, performance and best-practice fixes.
 
