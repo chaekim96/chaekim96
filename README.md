@@ -30,6 +30,7 @@ Custom extensions I built for my own Claude Code setup.
 ## Design and process
 
 - **[Personal brand](https://chaekim.vercel.app/projects/personal-brand)** · How I chose a brand: five directions drawn from what's already true about me, two finalists built as real pages, and why the quiet Stamp design won.
+- **[This portfolio](https://chaekim.vercel.app/projects/portfolio)** · How my site got built, by hand in plain HTML: the decisions, the backlog, and what's next.
 
 ## Currently
 
