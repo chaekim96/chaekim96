@@ -27,6 +27,10 @@ Custom extensions I built for my own Claude Code setup.
 - **[Pac-Man DQN](https://github.com/chaekim96/pacman-dqn)** · A DQN agent that learned Ms. Pac-Man. Mean eval score 492 → 680.
 - **[Custom LLM](https://github.com/chaekim96/custom-llm)** · A tiny nanoGPT language model trained on CPU, with my own teaching corpus.
 
+## Design and process
+
+- **[Personal brand](https://chaekim.vercel.app/projects/personal-brand)** · How I chose a brand: five directions drawn from what's already true about me, two finalists built as real pages, and why the quiet Stamp design won.
+
 ## Currently
 
 Building tools that turn AI into something useful for everyday work.
