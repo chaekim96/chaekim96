@@ -32,6 +32,7 @@ Custom extensions I built for my own Claude Code setup.
 
 - **[Personal brand](https://chaekim.vercel.app/projects/personal-brand)** · How I chose a brand: five directions drawn from what's already true about me, two finalists built as real pages, and why the quiet Stamp design won.
 - **[This portfolio](https://chaekim.vercel.app/projects/portfolio)** · How my site got built, by hand in plain HTML: the decisions, the backlog, and what's next.
+- **[Product Blueprint](https://chaekim.vercel.app/projects/product-blueprint)** · My personal prompt library and template for building apps. A six-stage build loop with a pass/fail check at each step, a design system pulled from my own products, and 22 versioned prompts that each come with evals. (Private repo.)
 
 ## Currently
 
