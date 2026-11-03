@@ -1,38 +1,54 @@
 # Hi, I'm Chae
 
-Berkeley Haas MBA '27. Ex-EY AI & Data consultant. Aspiring product manager.
+I build tools that make invisible things visible: your brand in AI answers, where your time goes, how much context you have left.
 
-I build productivity tools that I'd actually use.
+Berkeley Haas MBA '27. Ex-EY AI & Data consultant. Co-founder of Lucent, which tracks how brands show up across AI assistants.
 
 [Portfolio](https://chaekim.vercel.app) · [LinkedIn](https://www.linkedin.com/in/chaekim) · [chaewoonkim@berkeley.edu](mailto:chaewoonkim@berkeley.edu)
 
-## Products I've built
+## How I build
 
-- **[Tally](https://github.com/chaekim96/tally)** · A note-taker where every line gets a Claude time estimate in a ledger column. [Live](https://tally-lake-seven.vercel.app)
-- **[Networking Tracker](https://github.com/chaekim96/networking-tracker)** · A private contact tracker. Postgres Row Level Security keeps each user's data their own. [Live](https://networking-tracker-five-sage.vercel.app)
-- **[Color Palette Generator](https://github.com/chaekim96/ColorPaletteGenerator)** · Palettes and font pairings for founders with no design background. [Live](https://color-palette-generator-three-sand.vercel.app)
-- **[VoicePrompter](https://github.com/chaekim96/VoicePrompter)** · A macOS teleprompter that follows your voice and stays hidden from screen sharing.
+- **Start from a real problem.** Most of these began as something I needed myself or heard from customers.
+- **Make AI output checkable.** Pipelines that verify their own numbers, privacy enforced in the database, and documented limits.
+- **Ship it live.** Most projects below have a working link.
+
+## Can AI see you?
+
+The question behind Lucent. Tools for how websites and brands show up in search and AI answers.
+
 - **[AI Visibility Checker](https://github.com/chaekim96/ai-visibility-checker)** · Reads a page the way a crawler does and reports whether search engines and AI assistants can find, read and cite it. [Live](https://chaekim-ai-visibility.vercel.app)
-- **TypeRace** · A live typing race for classmates. Share a four-letter code, type the same short story, first to finish wins. [Live](https://typerace.typerace.workers.dev) · [Case study](https://chaekim-portfolio.vercel.app/projects/typerace)
 - **[Anatomy of a Website](https://github.com/chaekim96/web-anatomy)** · An illustrated encyclopedia of how a website works, built on one idea: SEO and GEO start with the website. [Live](https://webanatomy.vercel.app)
 - **[Parallel Prospect Brief](https://github.com/chaekim96/parallel-prospect-brief)** · A command-line tool that turns a company name into a cited one-page sales brief, built on Parallel's Task API.
 
-## Claude Code mods
+## Seeing your own work
 
-Custom extensions I built for my own Claude Code setup.
+Tools for everyday work that show what's usually hidden.
 
-- **[SmartModel](https://github.com/chaekim96/smartmodel)** · A router hook that scores how hard a prompt is and recommends Haiku, Sonnet, Opus or Fable. Runs in ask, auto or block mode.
+- **[Tally](https://github.com/chaekim96/tally)** · A note-taker where every line gets a Claude time estimate in a ledger column, so a to-do list becomes an honest picture of your day. [Live](https://tally-lake-seven.vercel.app)
+- **[Networking Tracker](https://github.com/chaekim96/networking-tracker)** · A private contact tracker. Postgres Row Level Security keeps each user's data their own. [Live](https://networking-tracker-five-sage.vercel.app)
+- **[VoicePrompter](https://github.com/chaekim96/VoicePrompter)** · A macOS teleprompter that follows your voice and stays hidden from screen sharing.
+- **[Color Palette Generator](https://github.com/chaekim96/ColorPaletteGenerator)** · Palettes and font pairings for founders with no design background. [Live](https://color-palette-generator-three-sand.vercel.app)
+
+## Seeing inside Claude Code
+
+Extensions I built for my own setup.
+
 - **[Token-Fuel](https://github.com/chaekim96/token-fuel)** · A context fuel gauge. A floating pill on the Claude window plus a CLI status line, so I see how much context is left.
-- **Code Improver** · A custom subagent that scans files and suggests readability, performance and best-practice fixes. ([case study](https://chaekim-portfolio.vercel.app/projects/code-improver))
 - **[task-progress](https://github.com/chaekim96/task-progress)** · A calm progress band above the prompt that follows Claude's own task checklist, with time left, a stuck warning, a context bar and a checklist pane with run history. Published as a plugin: `/plugin install task-progress --marketplace chaekim96/task-progress`. ([case study](https://chaekim-portfolio.vercel.app/projects/task-progress))
+- **[SmartModel](https://github.com/chaekim96/smartmodel)** · A router hook that scores how hard a prompt is and recommends Haiku, Sonnet, Opus or Fable. Runs in ask, auto or block mode.
+- **Code Improver** · A custom subagent that scans files and suggests readability, performance and best-practice fixes. ([case study](https://chaekim-portfolio.vercel.app/projects/code-improver))
 
-## AI / ML coursework
+## AI that checks its own work
 
 - **[Spotify Review Triage](https://github.com/chaekim96/spotify-review-triage)** · A multi-agent LLM pipeline that labels 100,000 Spotify app reviews for $4.36, checks its own work, and recommends where next quarter's product effort should go. [Live](https://spotify-review-triage.vercel.app)
 - **Review Labeler** · In progress: can a small fine-tuned model label app reviews as well as a big prompted one, for a fraction of the cost? So far, a rewritten label guide, a labeling sheet, and a scorer that reproduces my Spotify results exactly. (Private repo; [case study](https://chaekim-portfolio.vercel.app/projects/review-labeler))
 - **[Personal Wiki](https://github.com/chaekim96/personal-wiki)** · Ask my own notes questions, offline. Local Gemma via Ollama + RAG.
 - **[Pac-Man DQN](https://github.com/chaekim96/pacman-dqn)** · A DQN agent that learned Ms. Pac-Man. Mean eval score 492 → 680.
 - **[Custom LLM](https://github.com/chaekim96/custom-llm)** · A tiny nanoGPT language model trained on CPU, with my own teaching corpus.
+
+## Just for fun
+
+- **TypeRace** · A live typing race for classmates. Share a four-letter code, type the same short story, first to finish wins. [Live](https://typerace.typerace.workers.dev) · [Case study](https://chaekim-portfolio.vercel.app/projects/typerace)
 
 ## Design and process
 
@@ -42,4 +58,4 @@ Custom extensions I built for my own Claude Code setup.
 
 ## Currently
 
-Building tools that turn AI into something useful for everyday work.
+Getting the AI visibility tools in front of real users, and building more ways to see what AI sees.
