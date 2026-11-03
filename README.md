@@ -29,6 +29,7 @@ Custom extensions I built for my own Claude Code setup.
 ## AI / ML coursework
 
 - **[Spotify Review Triage](https://github.com/chaekim96/spotify-review-triage)** · A multi-agent LLM pipeline that labels 100,000 Spotify app reviews for $4.36, checks its own work, and recommends where next quarter's product effort should go. [Live](https://spotify-review-triage.vercel.app)
+- **Review Labeler** · In progress: can a small fine-tuned model label app reviews as well as a big prompted one, for a fraction of the cost? So far, a rewritten label guide, a labeling sheet, and a scorer that reproduces my Spotify results exactly. (Private repo; [case study](https://chaekim-portfolio.vercel.app/projects/review-labeler))
 - **[Personal Wiki](https://github.com/chaekim96/personal-wiki)** · Ask my own notes questions, offline. Local Gemma via Ollama + RAG.
 - **[Pac-Man DQN](https://github.com/chaekim96/pacman-dqn)** · A DQN agent that learned Ms. Pac-Man. Mean eval score 492 → 680.
 - **[Custom LLM](https://github.com/chaekim96/custom-llm)** · A tiny nanoGPT language model trained on CPU, with my own teaching corpus.
