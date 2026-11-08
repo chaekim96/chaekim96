@@ -6,6 +6,48 @@ Berkeley Haas MBA '27. Ex-EY AI & Data consultant. Co-founder of Lucent, which t
 
 [Portfolio](https://chaekim.vercel.app) · [LinkedIn](https://www.linkedin.com/in/chaekim) · [chaewoonkim@berkeley.edu](mailto:chaewoonkim@berkeley.edu)
 
+## What I've built
+
+Each build has its own mark. Tap one to open the repo.
+
+**Products**
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/ai-visibility-checker"><img src="assets/marks/ai-visibility-checker.svg" width="64" height="64" alt="AI Visibility Checker mark"></a><br><sub><a href="https://github.com/chaekim96/ai-visibility-checker">AI Visibility Checker</a></sub></td>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/web-anatomy"><img src="assets/marks/web-anatomy.svg" width="64" height="64" alt="Anatomy of a Website mark"></a><br><sub><a href="https://github.com/chaekim96/web-anatomy">Anatomy of a Website</a></sub></td>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/tally"><img src="assets/marks/tally.svg" width="64" height="64" alt="Tally mark"></a><br><sub><a href="https://github.com/chaekim96/tally">Tally</a></sub></td>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/ColorPaletteGenerator"><img src="assets/marks/color-palette-generator.svg" width="64" height="64" alt="Color Palette Generator mark"></a><br><sub><a href="https://github.com/chaekim96/ColorPaletteGenerator">Color Palette Generator</a></sub></td>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/networking-tracker"><img src="assets/marks/networking-tracker.svg" width="64" height="64" alt="Networking Tracker mark"></a><br><sub><a href="https://github.com/chaekim96/networking-tracker">Networking Tracker</a></sub></td>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/parallel-prospect-brief"><img src="assets/marks/parallel-prospect-brief.svg" width="64" height="64" alt="Parallel Prospect Brief mark"></a><br><sub><a href="https://github.com/chaekim96/parallel-prospect-brief">Parallel Prospect Brief</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/VoicePrompter"><img src="assets/marks/voiceprompter.svg" width="64" height="64" alt="VoicePrompter mark"></a><br><sub><a href="https://github.com/chaekim96/VoicePrompter">VoicePrompter</a></sub></td>
+  </tr>
+</table>
+
+**Tools**
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/token-fuel"><img src="assets/marks/token-fuel.svg" width="64" height="64" alt="Token-Fuel mark"></a><br><sub><a href="https://github.com/chaekim96/token-fuel">Token-Fuel</a></sub></td>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/smartmodel"><img src="assets/marks/smartmodel.svg" width="64" height="64" alt="SmartModel mark"></a><br><sub><a href="https://github.com/chaekim96/smartmodel">SmartModel</a></sub></td>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/task-progress"><img src="assets/marks/task-progress.svg" width="64" height="64" alt="task-progress mark"></a><br><sub><a href="https://github.com/chaekim96/task-progress">task-progress</a></sub></td>
+  </tr>
+</table>
+
+**Studies**
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/spotify-review-triage"><img src="assets/marks/spotify-review-triage.svg" width="64" height="64" alt="Spotify Review Triage mark"></a><br><sub><a href="https://github.com/chaekim96/spotify-review-triage">Spotify Review Triage</a></sub></td>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/personal-wiki"><img src="assets/marks/personal-wiki.svg" width="64" height="64" alt="Personal Wiki mark"></a><br><sub><a href="https://github.com/chaekim96/personal-wiki">Personal Wiki</a></sub></td>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/custom-llm"><img src="assets/marks/custom-llm.svg" width="64" height="64" alt="Custom LLM mark"></a><br><sub><a href="https://github.com/chaekim96/custom-llm">Custom LLM</a></sub></td>
+    <td align="center" valign="top" width="130"><a href="https://github.com/chaekim96/pacman-dqn"><img src="assets/marks/pacman-dqn.svg" width="64" height="64" alt="Pac-Man DQN mark"></a><br><sub><a href="https://github.com/chaekim96/pacman-dqn">Pac-Man DQN</a></sub></td>
+  </tr>
+</table>
+
+
 ## How I build
 
 - **Start from a real problem.** Most of these began as something I needed myself or heard from customers.
