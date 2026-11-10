@@ -67,6 +67,7 @@ The question behind Lucent. Tools for how websites and brands show up in search 
 Tools for everyday work that show what's usually hidden.
 
 - **[Tally](https://github.com/chaekim96/tally)** · A note-taker where every line gets a Claude time estimate in a ledger column, so a to-do list becomes an honest picture of your day. [Live](https://tally-lake-seven.vercel.app)
+- **Timely** · The first take on Tally, built in Google AI Studio: Gemini sizes and sorts every line of a note. Not deployed yet. (Private repo; [case study](https://chaekim.vercel.app/projects/timely))
 - **[Networking Tracker](https://github.com/chaekim96/networking-tracker)** · A private contact tracker. Postgres Row Level Security keeps each user's data their own. [Live](https://networking-tracker-five-sage.vercel.app)
 - **[VoicePrompter](https://github.com/chaekim96/VoicePrompter)** · A macOS teleprompter that follows your voice and stays hidden from screen sharing.
 - **[Color Palette Generator](https://github.com/chaekim96/ColorPaletteGenerator)** · Palettes and font pairings for founders with no design background. [Live](https://color-palette-generator-three-sand.vercel.app)
